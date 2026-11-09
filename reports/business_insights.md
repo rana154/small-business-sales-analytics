@@ -49,3 +49,41 @@ This analysis uses fictional sample data and is intended for portfolio demonstra
 - Expand the dataset with more realistic customer transactions.
 - Develop Python-based data cleaning and analysis.
 - Build an interactive Power BI dashboard.
+
+  
+## 8. Sample Analysis Results
+
+Based on 50 fictional transactions:
+
+| Metric | Result |
+|---|---:|
+| Total Revenue | ₹17,630 |
+| Total Orders | 50 |
+| Items Sold | 104 |
+| Average Order Value | ₹352.60 |
+| Unique Customers | 50 |
+
+### Product Performance
+
+- Margherita Pizza generated the highest revenue at ₹4,200.
+- Pasta generated ₹3,080.
+- Cold Coffee generated ₹2,340.
+
+### Category Performance
+
+- Food contributed 51.5% of total revenue.
+- Beverages contributed 31.3%.
+- Desserts contributed 17.2%.
+
+### Payment Preferences
+
+- UPI: 24 transactions
+- Cash: 14 transactions
+- Card: 12 transactions
+
+### Important Data Limitation
+
+Every customer currently has a unique customer ID. Therefore, repeat customer behaviour cannot yet be meaningfully evaluated.
+
+These results were calculated from the sample CSV dataset. SQL execution and independent validation are still pending.
+
