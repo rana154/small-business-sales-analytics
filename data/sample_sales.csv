@@ -1,0 +1,52 @@
+
+order_id,order_date,product_name,category,quantity,unit_price,total_amount,payment_method,customer_id
+1001,2026-01-02,Cappuccino,Beverages,2,150,300,UPI,501
+1002,2026-01-02,Margherita Pizza,Food,1,350,350,Cash,502
+1003,2026-01-03,Cold Coffee,Beverages,2,180,360,UPI,503
+1004,2026-01-03,Veg Sandwich,Food,3,120,360,Card,504
+1005,2026-01-04,Pasta,Food,2,280,560,UPI,505
+1006,2026-01-05,Masala Tea,Beverages,3,60,180,Cash,506
+1007,2026-01-06,Chocolate Brownie,Desserts,2,130,260,UPI,507
+1008,2026-01-07,Margherita Pizza,Food,2,350,700,Card,508
+1009,2026-01-08,Cappuccino,Beverages,1,150,150,Cash,509
+1010,2026-01-09,Pasta,Food,1,280,280,UPI,510
+1011,2026-01-10,Cold Coffee,Beverages,3,180,540,UPI,511
+1012,2026-01-11,Cheesecake,Desserts,2,160,320,Cash,512
+1013,2026-01-12,Veg Sandwich,Food,2,120,240,Card,513
+1014,2026-01-13,Masala Tea,Beverages,4,60,240,UPI,514
+1015,2026-01-14,Margherita Pizza,Food,1,350,350,Cash,515
+1016,2026-01-15,Chocolate Brownie,Desserts,3,130,390,UPI,516
+1017,2026-01-16,Cappuccino,Beverages,2,150,300,Card,517
+1018,2026-01-17,Pasta,Food,2,280,560,UPI,518
+1019,2026-01-18,Cheesecake,Desserts,1,160,160,Cash,519
+1020,2026-01-19,Cold Coffee,Beverages,2,180,360,Card,520
+1021,2026-01-20,Veg Sandwich,Food,3,120,360,UPI,521
+1022,2026-01-21,Masala Tea,Beverages,2,60,120,Cash,522
+1023,2026-01-22,Margherita Pizza,Food,2,350,700,UPI,523
+1024,2026-01-23,Chocolate Brownie,Desserts,1,130,130,Card,524
+1025,2026-01-24,Cappuccino,Beverages,3,150,450,UPI,525
+1026,2026-01-25,Pasta,Food,1,280,280,Cash,526
+1027,2026-01-26,Cheesecake,Desserts,2,160,320,UPI,527
+1028,2026-01-27,Cold Coffee,Beverages,1,180,180,Card,528
+1029,2026-01-28,Veg Sandwich,Food,2,120,240,Cash,529
+1030,2026-01-29,Margherita Pizza,Food,1,350,350,UPI,530
+1031,2026-02-01,Cappuccino,Beverages,3,150,450,UPI,531
+1032,2026-02-02,Pasta,Food,2,280,560,Card,532
+1033,2026-02-03,Masala Tea,Beverages,4,60,240,Cash,533
+1034,2026-02-04,Cheesecake,Desserts,3,160,480,UPI,534
+1035,2026-02-05,Margherita Pizza,Food,2,350,700,Card,535
+1036,2026-02-06,Cold Coffee,Beverages,2,180,360,UPI,536
+1037,2026-02-07,Veg Sandwich,Food,3,120,360,Cash,537
+1038,2026-02-08,Chocolate Brownie,Desserts,2,130,260,UPI,538
+1039,2026-02-09,Cappuccino,Beverages,2,150,300,Card,539
+1040,2026-02-10,Pasta,Food,1,280,280,UPI,540
+1041,2026-02-11,Masala Tea,Beverages,3,60,180,Cash,541
+1042,2026-02-12,Margherita Pizza,Food,1,350,350,UPI,542
+1043,2026-02-13,Cheesecake,Desserts,2,160,320,Card,543
+1044,2026-02-14,Cold Coffee,Beverages,3,180,540,UPI,544
+1045,2026-02-15,Veg Sandwich,Food,2,120,240,Cash,545
+1046,2026-02-16,Chocolate Brownie,Desserts,3,130,390,UPI,546
+1047,2026-02-17,Cappuccino,Beverages,1,150,150,Cash,547
+1048,2026-02-18,Pasta,Food,2,280,560,Card,548
+1049,2026-02-19,Masala Tea,Beverages,2,60,120,UPI,549
+1050,2026-02-20,Margherita Pizza,Food,2,350,700,UPI,550
